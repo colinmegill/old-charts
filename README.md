@@ -2,6 +2,6 @@
 
 ### Running locally
 
-`cd old-charts`
-`npm install`
-`npm run dev`
+* `cd old-charts`
+* `npm install`
+* `npm run dev`
